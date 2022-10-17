@@ -1,4 +1,4 @@
-const localQuotes = [
+[
 {
     text: "If you wouldst live long, live well, for folly and wickedness shorten life.",
     author: "Benjamin Franklin"
