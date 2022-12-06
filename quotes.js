@@ -1,11 +1,11 @@
 [
 {
-    "text" : "If you wouldst live long, live well, for folly and wickedness shorten life.",
-    "author": "Benjamin Franklin"
+    "text" : "Strength does not come from physical capacity. It comes from an indomitable will.",
+    "author": "Mahatma Gandhi"
 },
 {
-    "text": "If you can give your son or daughter only one gift, let it be enthusiasm.",
-    "author": "Bruce Barton"
+    "text": "If you want something you’ve never had, you must be willing to do something you’ve never done.",
+    "author": "Thomas Jefferson"
 },
 {
     "text": "For the things we have to learn before we can do them, we learn by doing them.",
@@ -16,19 +16,19 @@
     "author": "Winston Churchill"
 },
 {
-    "text": "Poets have been mysteriously silent on the subject of cheese.",
-    "author": "G.K Chesterton"
+    "text": "Once you are exercising regularly, the hardest thing is to stop it.",
+    "author": "Erin Gray"
 }, 
 {
     "text": "It's not the size of the dog in the fight, but the size of the fight in the dog.",
     "author": "Archie Griffin"
 },
 {
-    "text": "Nothing lasts forever. Not even your troubles.",
-    "author": "Arnold H Glasgow"
+    "text": "If you don’t make time for exercise, you’ll probably have to make time for illness.",
+    "author": "Robin Sharma"
 },
 {
-    "text": "There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle",
+    "text": "Dead last finish is greater than did not finish, which trumps did not start.",
     "author": "Albert Einstein"
 },
 {
@@ -56,16 +56,16 @@
     "author": "Les Brown"
 },
 {
-    "text": "A life spent making mistakes is not only more honorable, but more useful than a life spent doing nothing.",
-    "author": "George Bernard Shaw"
+    "text": "All progress takes place outside the comfort zone.",
+    "author": "Michael John Bobak"
 },
 {
-    "text": "Nobody can make you feel inferior without your consent.",
-    "author": "Eleanor Roosevelt"
+    "text": "Never give up on a dream just because of the time it will take to accomplish it. The time will pass anyway.",
+    "author": "Earl Nightingale"
 },
 {
-    "text": "It took me a long time not to judge myself through someone else's eyes.",
-    "author": "Sally Field"
+    "text": "I don’t count my sit-ups. I only start counting when it starts hurting because they’re the only ones that count.",
+    "author": "Muhammad Ali"
 },
 {
     "text": "I quit being afraid when my first venture failed and the sky didn't fall down.",
@@ -80,7 +80,7 @@
     "author": "Tony Robbins"
 },
 {
-    "text": "People are like stained-glass windows. They sparkle and shine when the sun is out, but when the darkness sets in their true beauty is revealed only if there is light from within.",
-    "author": "Elisabeth Kübler-Ross"
+    "text": "Go the extra mile. It’s never crowded.",
+    "author": "Wayne Dyer"
 }
 ]
